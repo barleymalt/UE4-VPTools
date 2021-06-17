@@ -1,5 +1,0 @@
-Installazione Widget:
-
-1) Copia la cartella Content dentro alla cartella di progetto di unreal (root del progetto);
-2) Dentro ad Unreal apri la cartella VPTools
-3) Fai click destro sul widget che vuoi attivare e seleziona dalla tendina "Run Editor Utility Widget"
